@@ -14,7 +14,7 @@ estudante da 5ª fase de ciência da computação e começando a estagiar na ár
     <a href="mailto:giovanaolivo2@gmail.com">
         <img 
             alt="E-mail" 
-            title="E-mal" 
+            title="E-mail" 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a> 
@@ -65,7 +65,7 @@ estudante da 5ª fase de ciência da computação e começando a estagiar na ár
 <img 
     align="left" 
     alt="Booststrap" 
-    title="Boostrap"
+    title="Bootsrap"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
