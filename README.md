@@ -4,14 +4,14 @@ estudante da 5ª fase de ciência da computação e começando a estagiar na ár
 
 
 <p align="left">
-    <a href="https://www.instagram.com/giovana_olivo/?hl=pt-br" style="margin-right: 10px;">
+    <a href="https://www.instagram.com/giovana_olivo/?hl=pt-br">
         <img 
-            alt="Instagram" 
+            alt="instagram" 
             title="Instagram" 
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="mailto:giovanaolivo2@gmail.com" style="margin-right: 10px;">
+    <a href="mailto:giovanaolivo2@gmail.com">
         <img 
             alt="E-mail" 
             title="E-mail" 
@@ -25,8 +25,7 @@ estudante da 5ª fase de ciência da computação e começando a estagiar na ár
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-</p>
-
+    
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -83,3 +82,4 @@ estudante da 5ª fase de ciência da computação e começando a estagiar na ár
 
 <br/>
 <br/>
+
