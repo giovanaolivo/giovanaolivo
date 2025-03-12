@@ -11,7 +11,7 @@ estudante da 5ª fase de ciência da computação e começando a estagiar na ár
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    <a href="mailto:iovanaolivo2@gmail.com">
+    <a href="mailto:giovanaolivo2@gmail.com">
         <img 
             alt="E-mail" 
             title="E-mal" 
