@@ -55,24 +55,6 @@ estudante da 5ª fase de ciência da computação e começando a estagiar na ár
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="![image](https://github.com/user-attachments/assets/fda87a85-e211-4151-bce0-bea5e50f93f3)" 
-/>
-
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="![image](https://github.com/user-attachments/assets/12635d19-0502-4165-800f-dbbdddfc2356)" 
-/>
 <br/>
 <br/>
 
