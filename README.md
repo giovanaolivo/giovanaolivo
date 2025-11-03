@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Giovana Olivo
 
-estudante de ciência da computação.
+computer science student
 
 ---
 
